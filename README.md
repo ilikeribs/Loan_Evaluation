@@ -1,8 +1,6 @@
-# Module 3 - Sprint 3 Unsupervised Learning & Hyperparameter Tuning
+# Loan Evaluation analysis and ML model
 
-This project is a part of the Turing College Data Science learning programme at (https://www.turingcollege.com/data-science). Projects outline can be found at the [main GitHub repo](https://github.com/TuringCollegeSubmissions/vbeino-ML.3.5).
-
-#### -- Project Status: [Active]
+#### -- Project Status: [Inactive]
 
 ## Project Intro/Objective
 The purpose of this project is to further develope machine learning skills as part of the Data Science programme curriculum. 
@@ -33,7 +31,7 @@ For the given Lending Club dataset (https://storage.googleapis.com/335-lending-c
 - Accepted loan sub-grade predictor with multi-class LightGBM classifier (36 classes, Macro F1 score: 0.23 )
 - Accepted loan interest rate predictor with LightGBM regressor (RSME score: 0.42 )
 
-Every model is explained using SHAP analysis diagrams. The models can be reached at: 
+Every model is explained using SHAP analysis diagrams. 
 
 ## Needs of this project
 
@@ -46,11 +44,8 @@ Every model is explained using SHAP analysis diagrams. The models can be reached
 3. Download and unzip the dataset locally 
 4. Run notebook 'Part1_loan_decision.ipynb'
 5. Run notebooks 'Part2_loan_grade.ipynb' & 'Part3_subgrade_int_rate.ipynb' for further analysis and loan grade, sub-grade and interest rate models
-6. To test the model deployment on Google Cloud, follow the link bellow
-  - (https://loan-app-zw2kzwvbma-uc.a.run.app/docs)
-
 
 ## Author 
 
-**Lead : [Vytautas Beinoravicius ]**
+**Lead : [Vytas Bein ]**
 
